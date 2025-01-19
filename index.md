@@ -67,7 +67,7 @@ Handles the graphical user interface and provides methods for:
 
 1. Clone the repository or download the code:  
    ```bash
-   git clone https://github.com/your-repo/Library-Management-System.git
+   git clone https://github.com/Sidd-Tiwari/LibraryManagementSystem.github.io.git
    cd Library-Management-System
    ```
 
@@ -75,18 +75,8 @@ Handles the graphical user interface and provides methods for:
 
 3. Run the program:  
    ```bash
-   python library_management_system.py
+   python LibraryManagementSystem.py
    ```
-
----
-
-## 📸 Screenshots
-Include screenshots of your application showcasing:  
-1. 🖥️ The main window  
-2. ➕ Add Book window  
-3. 🔍 Search Book window  
-4. 📖 Check Out Book window  
-5. 📥 Return Book window  
 
 ---
 
